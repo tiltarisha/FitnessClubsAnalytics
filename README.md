@@ -108,7 +108,7 @@ FitnessClubsAnalytics
 
 - Business Requirements;
 - Data Dictionary;
-- User Guide;
+- User Guide.
 
 ## Автор
 
